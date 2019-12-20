@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Lyrio</string>
+    <string name="title_activity_maps">Lyrio Map</string>
+    <string name="guess_button">Guess</string>
+    <string name="skip_button">Skip</string>
+    <string name="dark_mode_button">Map Style</string>
+    <string name="guess_dialog_box">Ready to guess? \n\n
+    You can either guess both the song name or artist!\n
+    Scroll through your unlocked lyrics above.</string>
+    <string name="input_hint">Artist or song title</string>
+    <string name="back_button">Back</string>
+    <string name="game_mode_button">Mode</string>
+    <string name="multiplier_text">Multiplier:</string>
+    <string name="score_text">Score:</string>
+    <string name="skip_toast">No more skips. Collect lyrics to gain back some skips.</string>
+    <string name="classic_toast">Game mode: Classic</string>
+    <string name="current_toast">Game mode: Current</string>
+    <string name="location_services">Location Services is needed to play!</string>
+    <string name="too_far">Not close enough!</string>
+    <string name="correct_guess">You got it!</string>
+    <string name="wrong_guess">Oops, not quite right...</string>
+    <string name="earned_skips">You have earned some skips!</string>
+</resources>
